@@ -12,11 +12,7 @@ Projeyi klonlayın
 
 
 ```bash
-
   git clone https://github.com/rkymtc/currency-converted
-
-
-
 ```
 
 ```bash
